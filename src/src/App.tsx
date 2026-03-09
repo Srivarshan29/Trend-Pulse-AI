@@ -2,9 +2,9 @@ import React from "react";
 
 function App() {
   return (
-    <div style={{padding:"40px",fontFamily:"Arial"}}>
+    <div style={{fontFamily:"Arial",padding:"40px"}}>
       <h1>🚀 TrendPulse AI</h1>
-      <p>Your AI Trend Prediction Platform</p>
+      <p>AI Trend Prediction Dashboard</p>
 
       <a href="https://trend-pulse-ai.onrender.com">
         Open AI Engine
