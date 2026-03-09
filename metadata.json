@@ -1,0 +1,9 @@
+{
+  "name": "Trend Pulse AI",
+  "description": "Predict the trajectory of digital trends by synthesizing real-time search velocity, social sentiment discourse, and machine learning architectures.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
